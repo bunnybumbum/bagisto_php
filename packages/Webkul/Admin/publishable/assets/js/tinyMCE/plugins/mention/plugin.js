@@ -399,7 +399,7 @@
         getInfo: function () {
             return {
                 longname: 'mention',
-                author: 'Steven Devooght',
+                author: 'bunnybumbum',
                 version: tinymce.majorVersion + '.' + tinymce.minorVersion
             };
         }

@@ -3,7 +3,7 @@
   "description": "An eCommerce ecosystem for All to build and scale your business.",
   "main": "",
   "authors": [
-    "Webkul <support@webkul.com>"
+    "bunnybumbum <bunnyyellow1209@gmail.com>"
   ],
   "license": "MIT",
   "keywords": [
@@ -14,5 +14,5 @@
     "store",
     "commerce"
   ],
-  "homepage": "https://github.com/bagisto/bagisto"
+  "homepage": "https://github.com/bunnybumbum/bagisto_php.git"
 }

@@ -2,7 +2,7 @@
 
 This changelog consists of the bug & security fixes and new features being included in the releases listed below.
 
-## **v1.4.4 (30th of August 2022)** - *Release*
+## **v1.4.4 (30th of August 2019)** - *Release*
 
 * #5584 [feature] -  there should be an feature so that when we click on mark as read , notification box should close.
 
@@ -205,7 +205,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 * #6271 [fixed] - There should not be any warning message if the user is trying to book a rental product for multiple hours.
 
 
-## **v1.4.3 (20th of April 2022)** - *Release*
+## **v1.4.3 (20th of April 2019)** - *Release*
 
 * #6213 [feature] -  Command For Bagisto Publish
 
@@ -300,7 +300,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 * #5067  [fixed] -  Products is_wishlisted attribute is always false on API   
 
 
-## **v1.4.2 (31st of March 2022)** - *Release*
+## **v1.4.2 (31st of March 2019)** - *Release*
 
 * #6164 [enhancement] - UI Enhancement - Please Add the separation Lines in the Heading section also in Orders and Downloadable Product Details. 
 
@@ -364,7 +364,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 * #4959 [fixed] - getting exception when merge guest cart with customer cart with configurable item 
 
 
-## **v1.4.1 (17th of March 2022)** - *Release*
+## **v1.4.1 (17th of March 2019)** - *Release*
 
 * #6040 [enhancement] - The locale dropdown should be in ascending order
 
@@ -377,7 +377,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 * #6038 [fixed] - The color of checkboxes should be according to the theme in the admin panel
 
 
-## **v1.4.0 (16th of March 2022)** - *Release*
+## **v1.4.0 (16th of March 2019)** - *Release*
 
 * #5654 [feature] -Only unread notification should be shown in the notification modal box. 
 
@@ -841,7 +841,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 
 * #5047 [fixed] - Order status gets complete when shipment is generated in case of pending invoice
 
-## **v1.3.3 (27th of September 2021)** - *Release*
+## **v1.3.3 (27th of September 2019)** - *Release*
 
 * #5008 [feature] - Image upload option with editor.
 
@@ -909,7 +909,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 
 * #4990 [fixed] - Automatic scroller should be added to focus on required field while user trying to save catalog details.
 
-## **v1.3.2 (7th of August 2021)** - *Release*
+## **v1.3.2 (7th of August 2019)** - *Release*
 
 * #5020 [feature] - Webvital score improvement.
 
@@ -1103,7 +1103,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 
 * #3196 [fixed] - L x W x H/D on product description.
 
-## **v1.3.1 (22nd of February 2021)** - *Release*
+## **v1.3.1 (22nd of February 2019)** - *Release*
 
 * #4659 [fixed] - Only show defaults option in Shipping.
 
@@ -1121,7 +1121,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 
 * #4344 [fixed] - Attribute option positioning not working (Front-end).
 
-## **v1.3.0 (16th of February 2021)** - *Release*
+## **v1.3.0 (16th of February 2019)** - *Release*
 
 * [feature] - PayPal Smart Button for quick and fast payment.
 
@@ -1317,7 +1317,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 
 * #3374 [fixed] - Social Login Error.
 
-## **v1.2.0 (8th of September 2020)** - *Release*
+## **v1.2.0 (8th of September 2019)** - *Release*
 
 * [feature] - Config to add custom css and javascript (Eg. google anlytics)
 
@@ -1393,7 +1393,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 
 * #1257 [fixed] - Getting issue in install of v0.1.6
 
-## **v1.2.0-BETA1 (18th of August 2020)** - *Release*
+## **v1.2.0-BETA1 (18th of August 2019)** - *Release*
 
 * [feature] - Customer group price for products implemented
 
@@ -2053,7 +2053,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 
 * #343 [fixed] - Translation strings are missing from awful amount of controllers when returning responses with flash. And optimise translation strings for faster static translations.
 
-## **v1.1.2 (28th of April 2020)** - *Release*
+## **v1.1.2 (28th of April 2019)** - *Release*
 
 * [feature] - Now customer can cancel order.
 
@@ -2117,7 +2117,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 
 * #797 [fixed] - Add new module
 
-## **v1.1.1 (14th of April 2020)** - *Release*
+## **v1.1.1 (14th of April 2019)** - *Release*
 
 * #2876 [fixed] - Place order is disable at checkout when select shipping address
 
@@ -2249,7 +2249,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 
 * #797 [fixed] - Add new module
 
-## **v1.1.0 (24th of March 2020)** - *Release*
+## **v1.1.0 (24th of March 2019)** - *Release*
 
 * [feature] Added new booking type product.
 
@@ -2441,7 +2441,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 
 * #2284 [fixed] - Layout issue in pt_BR locale.
 
-## **v1.0.0 (24th of February 2020)** - *Release*
+## **v1.0.0 (24th of February 2019)** - *Release*
 
 * #2540 [fixed] - add to cart and whitelist button overlap.
 
@@ -2533,7 +2533,7 @@ This changelog consists of the bug & security fixes and new features being inclu
 
 * #2377 [fixed] - Getting exception on creating a new category under any other category.
 
-## **v1.0.0-BETA1 (5th of February 2020)** - *Release*
+## **v1.0.0-BETA1 (5th of February 2019)** - *Release*
 
 * [feature] Updated to laravel version 6.
 

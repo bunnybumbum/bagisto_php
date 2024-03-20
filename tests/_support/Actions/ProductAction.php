@@ -366,7 +366,7 @@ trait ProductAction
             ->where(['attribute_id' => $brand->id])
             ->exists()) {
             AttributeOption::create([
-                'admin_name'   => 'Webkul Demo Brand (c) 2020',
+                'admin_name'   => 'Webkul Demo Brand (c) 2019',
                 'attribute_id' => $brand->id,
             ]);
         }

@@ -1,7 +1,7 @@
 /**
  *
  *
- * @author Jerry Bendy <jerry@icewingcc.com>
+ * @author bunnybumbum <bunnyyellow1209@gmail.com>
  * @licence MIT
  *
  */
@@ -33,7 +33,7 @@
 
 /**!
  * Sortable 1.10.2
- * @author	RubaXa   <trash@rubaxa.org>
+ * @author	bunnybumbum <bunnyyellow1209@gmail.com>
  * @author	owenm    <owen23355@gmail.com>
  * @license MIT
  */
